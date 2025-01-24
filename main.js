@@ -18,3 +18,4 @@ const obj2 = {
 }
 
 const message = "new message"
+const message5 = "new message5"
