@@ -16,3 +16,5 @@ const obj2 = {
    model: "Patriot",
    year: 2024,
 }
+
+const message = "new message"
