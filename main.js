@@ -21,3 +21,4 @@ const message1 = "new message";
 const message3 = "new message";
 const message4 = "new message";
 const message5 = "new message5";
+const message6 = "new message6";
